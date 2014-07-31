@@ -10,4 +10,5 @@ Usage
 ------------
 
 This console application accepts only hostname parameter. If no hostname is provided, *localhost* will be assumed.
+
     FiddlerCoreSniffer.exe hostname
